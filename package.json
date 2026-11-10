@@ -1,0 +1,14 @@
+
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "Node.js application with Express endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
